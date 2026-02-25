@@ -1,5 +1,3 @@
-https://github.com/paulagranadoqa/saucedemo-qa-testing/blob/main/saucedemo-test-cases.pdf
-
 # QA Project: SauceDemo Testing Strategy
 
 This repository showcases the testing process and documentation for the [SauceDemo](https://www.saucedemo.com/) e-commerce platform. The goal is to ensure high quality and a bug-free experience for users.
