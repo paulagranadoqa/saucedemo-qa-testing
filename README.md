@@ -15,7 +15,7 @@ I performed a comprehensive manual testing analysis, covering critical user flow
 ## Documentation
 All detailed test cases and results are organized in the documentation below:
 
-* 📄 **[Manual Test Cases](https://github.com/paulagranadoqa/saucedemo-qa-testing/blob/main/saucedemo-test-cases.pdf):** Detailed spreadsheet containing 6 tabs (Login, Products, Cart, Checkout, Core Functionality, and Observations).
+* 📄 **[Manual Test Cases]([https://github.com/paulagranadoqa/saucedemo-qa-testing/blob/main/saucedemo-test-cases.pdf](https://docs.google.com/spreadsheets/d/1AgQO6r1T6gPugLwDRPYrqwX5gfzEVDS9tBzwdQA2wNI/edit?usp=sharing)):** Detailed spreadsheet containing 6 tabs (Login, Products, Cart, Checkout, Core Functionality, and Observations).
 
 ## Tech Stack & Tools
 * **Test Management:** Google Sheets / Excel
