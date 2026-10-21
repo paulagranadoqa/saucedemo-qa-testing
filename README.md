@@ -14,9 +14,10 @@ I performed a comprehensive manual testing analysis, covering critical user flow
 
 ## 📄 Master Documentation
 
-For complete planning details, full test suites (Passed, Failed, and Blocked test cases), and execution metrics:
+For complete planning details, full test suites (Passed, Failed, and Blocked test cases), access the core project artifacts:
 
 - 📊 [View Full Manual Test Suite & Master Execution Report (Google Docs)](https://docs.google.com/spreadsheets/d/1AgQO6r1T6gPugLwDRPYrqwX5gfzEVDS9tBzwdQA2wNI/edit?usp=sharing)
+- 📊 [View Full Manual Test Suite & Matrix (Google Sheets)](https://docs.google.com/spreadsheets/d/1AgQO6r1T6gPugLwDRPYrqwX5gfzEVDS9tBzwdQA2wNI/edit?usp=sharing)
 
 
 ## Tech Stack & Tools
@@ -41,8 +42,3 @@ All test cases marked as **Failed** during execution were migrated to GitHub Iss
 | **#7** | TC77 | Empty Cart Checkout Prevention | Critical | [View Issue #7](https://github.com/paulagranadoqa/saucedemo-qa-testing/issues/7) |
 | **#8** | TC80 | Checkout Button Dynamic State | Major | [View Issue #8](https://github.com/paulagranadoqa/saucedemo-qa-testing/issues/8) |
 | **#9** | TC86 | Invalid URL Routing & 404 Fallback | Major | [View Issue #9](https://github.com/paulagranadoqa/saucedemo-qa-testing/issues/9) |
-
-
-For complete planning details, full test suites (Passed, Failed, and Blocked test cases), and execution metrics:
-
-- 📊 [View Full Manual Test Suite & Master Execution Report (Google Docs)](SEU_LINK_DO_GOOGLE_DOCS_AQUI)
