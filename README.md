@@ -16,7 +16,7 @@ I performed a comprehensive manual testing analysis, covering critical user flow
 
 For complete planning details, full test suites (Passed, Failed, and Blocked test cases), access the core project artifacts:
 
-- 📊 [View Full Manual Test Suite & Master Execution Report (Google Docs)](https://docs.google.com/spreadsheets/d/1AgQO6r1T6gPugLwDRPYrqwX5gfzEVDS9tBzwdQA2wNI/edit?usp=sharing)
+- 📊 [View Full Manual Test Suite & Master Execution Report (Google Docs)](https://docs.google.com/document/d/13lFbCHXZ2HnNwUqbBQ32u04euyv_ans7z60cDEeuM2g/edit?usp=sharing)
 - 📊 [View Full Manual Test Suite & Matrix (Google Sheets)](https://docs.google.com/spreadsheets/d/1AgQO6r1T6gPugLwDRPYrqwX5gfzEVDS9tBzwdQA2wNI/edit?usp=sharing)
 
 
