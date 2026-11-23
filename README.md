@@ -89,12 +89,18 @@ All test cases marked as **Failed** during manual and exploratory execution were
    `npx cypress open`
 
 ---
-
 ## 📸 Execution Evidence
 
-### 1. Full Test Suite Summary (Terminal & Cypress UI)
-*(Cole aqui o print do terminal mostrando `6 passing` ou do Cypress UI rodando as 2 specs)*
+### 1. Interactive Test Runner Execution (Video)
+- 🎥 **[Cypress Test Runner & Specs Execution (Jam.dev)](https://jam.dev/c/84cf5674-a092-4589-83b0-5d8ae56e299b)** — Demonstration of both spec files (`login.cy.js` and `checkout.cy.js`) running inside the Cypress UI.
 
-### 2. Detailed Results by Module
+### 2. Headless Execution (Cypress Terminal Execution Summary)
+
+<img width="731" height="564" alt="cypress-spec-results" src="https://github.com/user-attachments/assets/b1dd1098-0b30-46c6-b314-c506c2be9422" />
+
+<img width="739" height="683" alt="cypress-terminal-summary png" src="https://github.com/user-attachments/assets/4e5cdbe4-d798-4d28-88d2-e255bad0b261" />
+
+
+### 3. Detailed Results by Module
 - **Authentication Suite (`login.cy.js`):** Covers `SD-01` (Valid Login), `SD-02` (Locked-Out User), and `SD-03` (Invalid Password).
 - **Cart & Checkout Suite (`checkout.cy.js`):** Covers `SD-04` (Cart Add/Remove), `SD-05` (End-to-End Purchase Flow), and `SD-06` (Checkout Empty Field Validation).

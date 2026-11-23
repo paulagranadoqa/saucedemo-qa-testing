@@ -1,0 +1,23 @@
+{
+  "name": "saucedemo-qa-testing",
+  "version": "1.0.0",
+  "description": "This repository showcases the testing process and documentation for the [SauceDemo](https://www.saucedemo.com/) e-commerce platform. The goal is to ensure high quality and a bug-free experience for users.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulagranadoqa/saucedemo-qa-testing.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulagranadoqa/saucedemo-qa-testing/issues"
+  },
+  "homepage": "https://github.com/paulagranadoqa/saucedemo-qa-testing#readme",
+  "devDependencies": {
+    "cypress": "^16.3.0"
+  }
+}
