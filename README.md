@@ -1,5 +1,7 @@
 # 🛒 SauceDemo E-Commerce Testing Suite: Manual & Cypress E2E Automation
 
+![SauceDemo E2E Tests](https://github.com/paulagranadoqa/saucedemo-qa-testing/actions/workflows/cypress.yml/badge.svg)
+
 This project features a complete frontend quality assurance portfolio for the **SauceDemo** e-commerce platform, combining comprehensive manual test suite design and exploratory defect reporting with automated end-to-end (E2E) UI regression testing in **Cypress**.
 
 ---
