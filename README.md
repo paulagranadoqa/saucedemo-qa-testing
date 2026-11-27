@@ -58,15 +58,23 @@ All test cases marked as **Failed** during manual and exploratory execution were
 
 ## 🛠️ Tech Stack & Tools
 - **UI Automation Framework:** Cypress (E2E Testing)
+- **Architecture & Design Pattern:** Page Object Model (POM) for scalable, reusable, and maintainable test suites
 - **Programming Language:** JavaScript (ES6+)
+- **CI/CD Pipeline:** GitHub Actions (automated headless test execution on push & pull requests)
 - **Test Management & Documentation:** Google Sheets, Google Docs, GitHub Markdown & Issues
 - **Target Application:** [SauceDemo Web App](https://www.saucedemo.com) (Chrome / Edge / Firefox)
 
 ---
 
 ## 📁 Project Structure
+This project follows the **Page Object Model (POM)** design pattern, encapsulating UI selectors and page interactions inside dedicated page classes (`cypress/pages/`) to keep test specs (`cypress/e2e/`) clean, readable, and easy to maintain:
+
 - `cypress/e2e/login.cy.js` — Authentication automated test scenarios (`SD-01` to `SD-03`)
 - `cypress/e2e/checkout.cy.js` — Cart & end-to-end checkout automated scenarios (`SD-04` to `SD-06`)
+- `cypress/pages/LoginPage.js` — Locators and actions for the login page
+- `cypress/pages/InventoryPage.js` — Locators and actions for the product catalog page
+- `cypress/pages/CartPage.js` — Locators and actions for the shopping cart page
+- `cypress/pages/CheckoutPage.js` — Locators and actions for the checkout flow and order confirmation
 - `cypress.config.js` — Cypress configuration (`baseUrl` & test runner settings)
 - `package.json` — Project dependencies and scripts
 - `README.md` — Project documentation and traceability matrix
@@ -76,7 +84,7 @@ All test cases marked as **Failed** during manual and exploratory execution were
 ## 🔧 Setup & How to Run the Tests
 
 1. **Clone the repository:**
-   `git clone https://github.com/SEU-USUARIO/saucedemo-qa-testing.git && cd saucedemo-qa-testing`
+   `git clone https://github.com/paulagranadoqa/saucedemo-qa-testing.git && cd saucedemo-qa-testing`
 
 2. **Install dependencies:**
    `npm install`
